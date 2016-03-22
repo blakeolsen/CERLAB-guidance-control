@@ -1,0 +1,6 @@
+[submodule "archive/Guidance-SDK"]
+	path = archive/Guidance-SDK
+	url = https://github.com/dji-sdk/Guidance-SDK.git
+[submodule "archive/Onboard-SDK"]
+	path = archive/Onboard-SDK
+	url = https://github.com/dji-sdk/Onboard-SDK.git
